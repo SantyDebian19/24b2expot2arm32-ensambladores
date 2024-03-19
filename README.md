@@ -1,10 +1,6 @@
 
-<!---
-   Para comentarios usar este bloque para documentar pendientes, secuencias, etc.
---->
+Hola soy goku
 
-
-![](https://s3.amazonaws.com/videos.pentesteracademy.com/videos/badges/low/arm-assembly.png)
 
 Borrar y modificar README
 
@@ -56,10 +52,10 @@ Unidad:
 1
 
 Título del trabajo:
-Ejercicios ......
+Integración de código Assembly con C
 
 Estudiante:
-.......
+Aganza Molina Abraham Armando 19210455
 
 	</p>
 
